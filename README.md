@@ -44,27 +44,6 @@ Campaign response variables
 
 Example: marketing_campaign.xlsx
 
-📦 Requirements
-
-Dependencies are listed in requirements.txt.
-Main libraries include:
-
-streamlit
-
-pandas
-
-numpy
-
-scikit-learn
-
-seaborn
-
-matplotlib
-
-scipy
-
-openpyxl
-
 🧑‍💻 Author
 
 Developed by Vigi-2002
